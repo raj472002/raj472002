@@ -35,7 +35,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj472002&show_icons=true&count_private=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj472002&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj472002&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
