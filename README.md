@@ -31,7 +31,10 @@
 
 
 <h3 align="left">Projects I have made:</h3>
-  - 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽: It fetch data from two APIs , mapbox.com and weatherstack.com and provide the accurate forecast!
+  • 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽: It fetch data from two APIs , mapbox.com and weatherstack.com and provide the accurate forecast!
+  
+  • 𝗧𝗮𝘀𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗔𝗣𝗜:An Api made from Node.js and Express.js and authentication using Json Web Token(jwt).
+  
 
 
 
