@@ -1,11 +1,13 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=raj472002&color=blue)
-### My name is Raj                                                                                                  
-####  I am an android developer
+### Hi there 👋,My name is Raj                                  
+### ![](https://komarev.com/ghpvc/?username=raj472002&color=blue)
+ 
+ 
 
 
 - 🎓 At present Studying at <b>Indian Institute of Information Technology, Surat.</b>
-- 💻I’m currently learning Flutter. 
+- 📱  I am currently working at Android App Development.
+- 💻 I’m currently learning Flutter. 
+
 
 
 
