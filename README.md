@@ -34,7 +34,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj472002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raj-baindra-119808195/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey._.itsraj/)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj472002&show_icons=true&count_private=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj472002&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj472002&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
