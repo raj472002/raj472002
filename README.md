@@ -1,10 +1,11 @@
-### Hi there 👋, My name is Raj ![](https://komarev.com/ghpvc/?username=raj472002&color=blue)  
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=raj472002&color=blue)
+### My name is Raj                                                                                                  
 ####  I am an android developer
 
 
 - 🎓 At present Studying at <b>Indian Institute of Information Technology, Surat.</b>
-- 🔭 I’m currently working on Gurucool UserInterface. 
-- 🌱 I’m currently learning Flutter. 
+- 💻I’m currently learning Flutter. 
 
 
 
@@ -33,7 +34,7 @@
 <h3 align="left">Projects I have made:</h3>
   • 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽: It fetch data from two APIs , mapbox.com and weatherstack.com and provide the accurate forecast!
   
-  • 𝗧𝗮𝘀𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗔𝗣𝗜:An Api made from Node.js and Express.js and authentication using Json Web Token(jwt).
+  • 𝗧𝗮𝘀𝗸 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗔𝗣𝗜: An Api made from Node.js and Express.js and authentication using Json Web Token(jwt).
   
 
 
