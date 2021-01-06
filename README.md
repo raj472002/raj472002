@@ -29,8 +29,21 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj472002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raj-baindra-119808195/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey._.itsraj/)  
 
-<h3 align="left">Github Stats:</h3><br/>
 
+<h3 align="left">Projects I have made:</h3>
+  - 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽: It fetch data from two APIs , mapbox.com and weatherstack.com and provide the accurate forecast!
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="left">Github Stats:</h3><br/>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj472002&show_icons=true&count_private=true&theme=nord)
