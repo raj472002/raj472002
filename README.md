@@ -11,6 +11,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj472002&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raj472002)  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/raj472002)  
