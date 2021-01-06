@@ -1,12 +1,13 @@
 ### Hi there 👋,My name is Raj                                  
-### ![](https://komarev.com/ghpvc/?username=raj472002&color=blue)
+### ![](https://komarev.com/ghpvc/?username=raj472002&color=green)
  
  
 
 
 - 🎓 At present Studying at <b>Indian Institute of Information Technology, Surat.</b>
-- 📱  I am currently working at Android App Development.
-- 💻 I’m currently learning Flutter. 
+-  📱 I am currently working at Android App Development.
+- 💻 I’m currently learning Flutter and Firebase features. 
+- 👀 I'm looking to collaborate on Android Development.
 
 
 
@@ -30,7 +31,7 @@
 <h6 align="left">Software:</h6>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj472002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raj-baindra-119808195/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey._.itsraj/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj472002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raj-baindra-119808195/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hey._.itsraj/)  
 
 
 <h3 align="left">Projects I have made:</h3>
