@@ -1,5 +1,5 @@
 ### Hi there 👋,My name is Raj                                  
-### ![](https://komarev.com/ghpvc/?username=raj472002&color=green)
+
  
  
 
